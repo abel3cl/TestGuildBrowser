@@ -31,7 +31,7 @@ NSString * const WowRaceNameWorgen          = @"Worgen";
 NSString * const WowItemQualityGrey         = @"Grey";
 NSString * const WowItemQualityWhite        = @"White";
 NSString * const WowItemQualityGreen        = @"Green";
-NSString * const WowItemQualityBlue        = @"Blue";
+NSString * const WowItemQualityBlue         = @"Blue";
 NSString * const WowItemQualityPurple       = @"Purple";
 NSString * const WowItemQualityOrange       = @"Orange";
 
